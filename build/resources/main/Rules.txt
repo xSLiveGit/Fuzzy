@@ -1,0 +1,15 @@
+A atunci B
+A atunci C
+B atunci D
+B atunci E
+C atunci D
+C atunci F
+G atunci H
+I atunci K
+I atunci J
+L atunci M
+M atunci N
+N atunci P
+S ^ Q atunci O
+S ^ R atunci P
+T atunci P

@@ -1,0 +1,20 @@
+A - urmeaza sabatori
+B - se spala perdele
+C - se spaca draperii
+D - se spala pe rand
+E - se spala delicat
+F - se spala usor
+G - Familia are 5 membrii
+H - se spala 5 kg
+I - se spala camasi
+J - se spala pulovere
+K - se spala fara stoarcere
+L - Georgica e mecanic
+M - Poarta salopeta
+N - se spala salopete
+O - se spala  normal
+P - se spala intents
+Q - greutate < 2kg
+R - greutate > 2kg
+S - se spala lenjerie
+T - se spala toate cele 3 salopete
